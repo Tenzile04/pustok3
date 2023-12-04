@@ -1,0 +1,6 @@
+C:\Users\Tenzıle SSD\Desktop\PustokRepositoryService\Pustok.Core\obj\Debug\net6.0\Pustok.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tenzıle SSD\Desktop\PustokRepositoryService\Pustok.Core\obj\Debug\net6.0\Pustok.Core.AssemblyInfoInputs.cache
+C:\Users\Tenzıle SSD\Desktop\PustokRepositoryService\Pustok.Core\obj\Debug\net6.0\Pustok.Core.AssemblyInfo.cs
+C:\Users\Tenzıle SSD\Desktop\PustokRepositoryService\Pustok.Core\obj\Debug\net6.0\Pustok.Core.csproj.CoreCompileInputs.cache
+C:\Users\Tenzıle SSD\Desktop\PustokRepositoryService\Pustok.Core\obj\Debug\net6.0\Pustok.Core.sourcelink.json
+C:\Users\Tenzıle SSD\Desktop\PustokRepositoryService\Pustok.Core\obj\Debug\net6.0\Pustok.Core.csproj.AssemblyReference.cache
